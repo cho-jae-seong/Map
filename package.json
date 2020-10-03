@@ -6,6 +6,7 @@
     "start": "node ./bin/www",
     "build": "node app.js"
   },
+  "homepage": "https://5f7851821e64610008892662--dreamy-agnesi-dc268e.netlify.app/",
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
